@@ -1,5 +1,5 @@
 {
-  "name": "secuconnect/secuconnect-js-sdk-demo",
+  "name": "secuconnect-js-sdk-demo",
   "dependencies": {
     "secuconnect-js-sdk": "^1.5.0"
   },
