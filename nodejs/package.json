@@ -1,0 +1,8 @@
+{
+  "name": "secuconnect/secuconnect-js-sdk-demo",
+  "dependencies": {
+    "secuconnect-js-sdk": "^1.5.0"
+  },
+  "devDependencies": {},
+  "license": "Apache-2.0"
+}

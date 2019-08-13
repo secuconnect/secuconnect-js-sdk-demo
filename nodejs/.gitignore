@@ -1,0 +1,7 @@
+node_modules/
+*~
+.idea/
+tmp/*
+package-lock.json
+coverage/
+test/tmp/
