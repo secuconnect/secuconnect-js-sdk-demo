@@ -7,6 +7,7 @@ let authenticator = new SecuconnectSDK.Authenticator(
     ));
 
 let file_cache = new SecuconnectSDK.FileCache();
+file_cache.dirName = __dirname + '/../../../tmp/';
 authenticator.getApiClient().setCachePool(file_cache);
 
 let api_instance = new SecuconnectSDK.PaymentCustomersApi();

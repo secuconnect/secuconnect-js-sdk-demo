@@ -1,7 +1,7 @@
 node_modules/
 *~
 .idea/
-tmp/*
+tmp/
+!.gitkeep
 package-lock.json
 coverage/
-test/tmp/
